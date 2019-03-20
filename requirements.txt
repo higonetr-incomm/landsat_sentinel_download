@@ -1,0 +1,10 @@
+Landsat578
+dask
+toolz
+cloudpickle
+pandas==0.22.0
+PyYAML==3.12
+requests==2.18.4
+lxml
+fastparquet
+pyarrow
