@@ -8,3 +8,4 @@ requests==2.18.4
 lxml
 fastparquet
 pyarrow
+sentinelsat
